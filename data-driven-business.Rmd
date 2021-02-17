@@ -23,3 +23,5 @@ Write your analysis here. Use illustrations from the case study and the informat
 ## What are the transformation steps towards a mature data driven business?
 Write your analysis here. Use illustrations from the case study and the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations.
 
+
+
