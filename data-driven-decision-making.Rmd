@@ -1,30 +1,44 @@
 ---
 title: "Assigment - Data Driven Decision Making"
-author: name author here
+author: Rob van der Wielen
 date: "`r format(Sys.time(), '%d %B, %Y')`"
+self_contained: false
 output:
   html_notebook:
     toc: yes
     toc_depth: 2
 ---
 
-Search Youtube for a suitable business case example on data driven decision making and copy the embed code below.
-
-<---- Watch this video if you don't know how to embed video's ---->
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9YffrCViTVk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<---- Replace this video with your business case example ---->
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C6WKt6fJiso" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen data-external= "1"></iframe>
 
 ## Why was data driven decision making (3DM) useful in this business case?
 
-Write your analysis here. Use the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations. 
+This case is not really about an organization but about business case in India. 3DM was useful in this business case to improve millions of lives of Indian inhabitants. This data shows that data does not only have to be used to improve profits but is it also can improve lives. 
 
 ## How did the organization apply 3DM?
 
-Write your analysis here. Use the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations. 
+The woman from the video founded Social Cops, to provided world leaders with real-time data. 
+
+In India data was still written down on paper, in local languages, with no real structure. It was impossible to load in into data tools. 
+
+When they tried a simple task as joining two data sets together that contained only names of villages. There was only a 15% match. Because one data set would say Bombay the other said Mumbay, and the names were spelled different. 
+
+She believed that if she could somehow could bring all these data sets together and showcase it to decision-makers in an easy intuitive fashion it would help them make more data driven decisions. 
+
+An example case was Sanita a 35 year old woman that cooks for her children every night. Head equipment was a Chula. Cooking on a Chula is equivalent to smoking 400 cigarettes an hour. But the alternative for Sanita was walking 20 kilometres to the nearest LPG gas centre and pick up a 14 kilo gas cylinder and put it on her head and walk back home.
+
+To make sure that inhabitants of India can get easy excess to LPG centres to cook on a healthy way, India decided to open up 10.000 LPG centres. To identify where these LPG centres had to be located, data was used. There were several thinks that had to be considered:
+-	The LPG centres had to be profitable, they were run by locals. 
+-	Every one of the 1,2 billion inhabitants of India had to have access to an LPG Centre within 10 kilometres of their homes. 
+Usually this decision would take 2 years and thousands of field officers and everything had to be hand drawn. 
+
+They created a map of all the 640.000 villages of India, using 600 external data source, for example population, infrastructure and LPG penetration. 
+
+The next problem was that they did not knew were all the current LPG Centres were. So they made sure that every LPG station downloaded an app that would give their location. After that they had located every LPG station in India. 
+
+Then they used all kind of algorithms and data to exactly determine the perfect locations for the LPG stations to make sure every inhabitant of India had a LPG stations within 10 kilometres of their home. The stations also had to be easily accessible. 
+ 
 
 ## What can the organization do with 3DM that they couldn’t do before?
 
-Write your analysis here. Use the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations. 
+The lives of billions of people can be approved using this data. India now does way more with data driven decision making. The company created a real-time platform on which people can easily see the progress of different projects. 
