@@ -21,17 +21,17 @@ Unilever recruits around 30.000 people a year and they get around 1.800.000 appl
 
 ## How was it translated into a data mining problem?
 
-What Unilever wanted to do was to use AI and machine learning to streamline this proces. To make it better for them and better for the people who apply to the job en much more costs effective. 
+What Unilever wanted to do was to use AI and machine learning to streamline this process. To make it better for them and better for the people who apply to the job en much more costs effective. 
 
-They tried this in their future leader programm. For this programm they recruited arount 850 people and they got 250.000 applications.
+They tried this in their future leader program. For this program they recruited around 850 people and they got 250.000 applications.
 
-They partnered with to companies to make this a better process. The fist thing they did they created an online game. So when someone applied to a job, they would do this game on their divice and this game would measure several variables, like your attitude or your apatite for risk. For example blow a digital baloon until it blows up to measure the apitite for risk. 
+They partnered with to companies to make this a better process. The fist thing they did is that they created an online game. So when someone applied to a job, they would do this game on their device and this game would measure several variables, like your attitude or your apatite for risk. For example blow a digital balloon until it blows up to measure the apatite for risk. 
 
 Machine learning will measure different aspects of applicants.
 
-This leads to a different stage. An interview, and not by a person but by an machine learning algorithm 
+This leads to a different stage. An interview, and not by a person but by an machine learning algorithm .
 
-You go thru a number of questions while recording yourself. And instead of a humen analyzing a machine is analyzing you. The machine can recognize different answers as well as machine vision like body language. 
+You go thru a number of questions while recording yourself. And instead of a human analyzing a machine is analyzing you. The machine can recognize different answers as well as machine vision like body language. 
 
 These processes narrow the number of application from 250.000 to just 3.000. These people are invited for a real interview and from these 3.000 the 850 new employees will be chosen. 
 
