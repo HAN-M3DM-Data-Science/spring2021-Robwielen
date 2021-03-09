@@ -1,7 +1,8 @@
 ---
 title: "Assigment - Data Problems vs Data Solutions"
-author: name author here
+author: Rob van der Wielen
 date: "`r format(Sys.time(), '%d %B, %Y')`"
+self_contained: false
 output:
   html_notebook:
     toc: yes
@@ -10,17 +11,34 @@ output:
 
 Search Youtube for a suitable business case example on data driven decision making and copy the embed code below.
 
-<---- Embed code here ---->
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Efo2ebnES_U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen data-external= "1"></iframe>
 
 ## What was the business problem?
 
-Write your analysis here. Use the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations. 
+This case is about Unilever. Unilever is one of the worlds largest consumer goods companies with over 400 brands in their portfolio and they employ 170.000 people. In the Netherlands almost everyone is familiar with Unilever. 
+
+Unilever recruits around 30.000 people a year and they get around 1.800.000 application a year. This is a massive organization, going thru all these applications, interviewing these people across all the locations and coordinating all of this. 
 
 ## How was it translated into a data mining problem?
 
-Write your analysis here. Use the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations.
+What Unilever wanted to do was to use AI and machine learning to streamline this proces. To make it better for them and better for the people who apply to the job en much more costs effective. 
+
+They tried this in their future leader programm. For this programm they recruited arount 850 people and they got 250.000 applications.
+
+They partnered with to companies to make this a better process. The fist thing they did they created an online game. So when someone applied to a job, they would do this game on their divice and this game would measure several variables, like your attitude or your apatite for risk. For example blow a digital baloon until it blows up to measure the apitite for risk. 
+
+Machine learning will measure different aspects of applicants.
+
+This leads to a different stage. An interview, and not by a person but by an machine learning algorithm 
+
+You go thru a number of questions while recording yourself. And instead of a humen analyzing a machine is analyzing you. The machine can recognize different answers as well as machine vision like body language. 
+
+These processes narrow the number of application from 250.000 to just 3.000. These people are invited for a real interview and from these 3.000 the 850 new employees will be chosen. 
 
 ## What is the realized business value?
 
-Write your analysis here. Use the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations. 
+This is taking out a lot of biases. The machine will filter out a lot of biases that people can have. 
+
+And the the machine gives every applicant feedback on the application. And by doing this people can improve their application skills. 
+
+This also cuts about 70.000 of interview time and interview processes. 
