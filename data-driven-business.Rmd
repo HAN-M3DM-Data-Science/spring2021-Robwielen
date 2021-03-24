@@ -1,7 +1,8 @@
-<<<<<<< HEAD
 ---
-title: "Assigment - Data Driven Business"
+title: "Assigment - Data Driven Decision Making"
+author: Rob van der Wielen
 date: "`r format(Sys.time(), '%d %B, %Y')`"
+self_contained: false
 output:
   html_notebook:
     toc: yes
@@ -10,46 +11,25 @@ output:
 
 Search Youtube for suitable business case examples on data driven business. Copy the embed code below.
 
-<---- Embed code here ---->
-
-
-## What features define a data driven business?
-
-Write your analysis here. Use illustrations from the case study and the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations. 
-
-## What are the important features of a data culture?
-
-Write your analysis here. Use illustrations from the case study and the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations.
-
-## What are the transformation steps towards a mature data driven business?
-Write your analysis here. Use illustrations from the case study and the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations...
-
-
-
-=======
----
-title: "Assigment - Data Driven Business"
-date: "`r format(Sys.time(), '%d %B, %Y')`"
-output:
-  html_notebook:
-    toc: yes
-    toc_depth: 2
----
-
-Search Youtube for suitable business case examples on data driven business. Copy the embed code below.
-
-<---- Embed code here ---->
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HucqeLEXt48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen data-external= "1"></iframe>
 
 ## What features define a data driven business?
 
-Write your analysis here. Use illustrations from the case study and the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations. 
+A high end mature company continually works to improve their data science processes (and not just the solution). Data scientist at firms that are mature should have the confidence that when they propose an investment to improve data science processes, that their suggestions will be met with informed and open minds. These companies will test under conditions that mimic as closely as possible the actual business setting.
+
+It is hard to assess what data science maturity is, but it is essential to getting the best out of the current capabilities of a company, and improving these capabilities (Provost & Fawcett, 2013). 
 
 ## What are the important features of a data culture?
 
-Write your analysis here. Use illustrations from the case study and the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations.
+*	Data culture is a key thing. You got to start moving the dial on, keeping the dial on and then maintaining the dial is around the data culture. 
+*	Also making organizations understand the value chain of data and understand the power that data has.
+*	Understanding from top to the bottom of the business and all layers in between how transformational data can be to a business.
+*	Getting people to understand the value of data governance is really important. 
+*	Build trust, we need to build a possible communication.
+*	Access: make data accessible, and making knowledge assessable.
+*	Knowledge: know when to involve data scientist. 
+
 
 ## What are the transformation steps towards a mature data driven business?
-Write your analysis here. Use illustrations from the case study and the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations.
-
->>>>>>> 1de8e062a529f26ac3b9c5e27c96270c491e5b7e
+To start the data transformation a company needs know where it is at the moment, so making a benchmark, and what the point of departure is. If a company is trying to get to a vision or an end stage of a transformation it needs to know what the starting point is to get to the point of arrival. 
+A lot of organizations are fairly data immature. They don’t value the data and do not look after the data. By using a data maturity model, companies can benchmark this process.
