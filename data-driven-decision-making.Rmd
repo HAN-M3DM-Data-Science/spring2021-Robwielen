@@ -22,7 +22,7 @@ The woman from the video founded Social Cops, to provided world leaders with rea
 In India data was still written down on paper, in local languages, with no real structure. It was impossible to load in into data tools. 
 
 When they tried a simple task as joining two data sets together that contained only names of villages. There was only a 15% match. Because one data set would say Bombay the other said Mumbay, and the names were spelled different. 
-
+ 
 She believed that if she could somehow could bring all these data sets together and showcase it to decision-makers in an easy intuitive fashion it would help them make more data driven decisions. 
 
 An example case was Sanita a 35 year old woman that cooks for her children every night. Head equipment was a Chula. Cooking on a Chula is equivalent to smoking 400 cigarettes an hour. But the alternative for Sanita was walking 20 kilometres to the nearest LPG gas centre and pick up a 14 kilo gas cylinder and put it on her head and walk back home.
