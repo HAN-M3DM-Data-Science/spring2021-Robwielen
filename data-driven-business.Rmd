@@ -11,7 +11,7 @@ output:
 
 Search Youtube for suitable business case examples on data driven business. Copy the embed code below.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HucqeLEXt48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen data-external= "1"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HucqeLEXt48" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen data-external= "1"></iframe>
 
 ## What features define a data driven business?
 
