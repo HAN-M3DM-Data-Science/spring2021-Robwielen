@@ -14,7 +14,7 @@ output:
 ## Why was data driven decision making (3DM) useful in this business case?
 
 This case is not really about an organization but about business case in India. 3DM was useful in this business case to improve millions of lives of Indian inhabitants. This data shows that data does not only have to be used to improve profits but is it also can improve lives.  
-
+ 
 ## How did the organization apply 3DM?
 
 The woman from the video founded Social Cops, to provided world leaders with real-time data. 
